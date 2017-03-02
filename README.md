@@ -1,2 +1,4 @@
 # Java-Prime-Factorization
-A simple program that returns the prime factors of a number.
+My best friend's hobby is a strange one, he enjoys factoring large prime numbers by hand. He can spend hours to days doing the math, oftentimes over at my house. We had a contest on one of these occasions to see what would be faster: me writing a program to factor prime numbers for me, or him working it out by hand. No calculators and no google (although, he graciously allowed me to use the Java Docs!)
+
+It was a fun little contest (that he won, I'll admit it... he's very fast), but instead of stashing the program in my "Fun Stuff" folder I decided I would post it up here. Prime factorization is a trivial task for a computer, but it can quickly become a complex. While the complexity for factorization is only O(n), we tend to use obscenely large numbers in these types of problems. Because of these large numbers, we get a phenomenon called pseudopolynomiality: a complexity that seems to be polynomial, but really isn't.
